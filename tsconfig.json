@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        //"allowJs": true,
+        "target": "es5",
+        "lib": ["es2015"],
+        "declaration": true
+    },
+    "include": [
+        "./examples/*",
+        "./server/**/*",
+        "./lib/**/*"
+    ],
+    "types": [
+      "lib/globals.d.ts"
+    ]
+}

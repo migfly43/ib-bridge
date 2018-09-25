@@ -1,0 +1,12 @@
+// market-data.proto
+package marketdata;
+syntax = "proto3";
+
+message MarketData {
+    int32 Position = 1;
+    int32 MarketDataType = 2;
+    int32 Operation = 3;
+    double Price = 4;
+    double Volume = 5;
+    double Time = 6;
+}

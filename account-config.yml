@@ -1,0 +1,32 @@
+AccountName: MDMmuly-29045
+nextOrderId: 1
+AccountSummary:
+  AccountType: LLC
+  NetLiquidation: 0
+  TotalCashValue: 0
+  SettledCash: 0
+  AccruedCash: 12
+  BuyingPower: 10000
+  EquityWithLoanValue: 0
+  PreviousEquityWithLoanValue: 0
+  GrossPositionValue: 0
+  ReqTEquity: 0
+  ReqTMargin: 0
+  SMA: 0
+  InitMarginReq: 0
+  MaintMarginReq: 0
+  AvailableFunds: 0
+  ExcessLiquidity: 0
+  Cushion: 0.919661
+  FullInitMarginReq: 0
+  FullMaintMarginReq: 100
+  FullAvailableFunds: 0
+  FullExcessLiquidity: 0
+  LookAheadNextChange: 1524427200
+  LookAheadInitMarginReq:
+  LookAheadMaintMarginReq:
+  LookAheadAvailableFunds:
+  LookAheadExcessLiquidity:
+  HighestSeverity: 0
+  DayTradesRemaining: 15
+  Leverage: 0
